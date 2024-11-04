@@ -5,7 +5,7 @@ An Android OpenGL ES 3.2 via Kotlin Experiment
 Usage
 =====
 * CAVEAT: Unlikely to work on Android emulator.
-    * In general the simulator tends to fail for graphical applications using Vulkan or OpenGL ES beyond 2.0
+    * In general the emulator tends to fail for graphical applications using Vulkan or OpenGL ES beyond 2.0
     * Developed and tested using a One Plus 8 on Android 13. YMMV.
 * Scribble with your finger.
 * Change colors with Blk, Blu, Red

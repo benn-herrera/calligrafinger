@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.tinybitsinteractive.calligrafinger"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.tinybitsinteractive.calligrafinger"
